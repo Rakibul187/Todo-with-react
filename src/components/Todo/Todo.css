@@ -1,0 +1,7 @@
+.todo {
+    border: 2px solid rgb(83, 12, 79);
+    background-color: rgb(203, 209, 220);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
